@@ -67,10 +67,9 @@ nav ul {
   justify-content: space-between;
   width: 110vw;
   list-style: none;
-  top: 95vh;
+  top: 90vh;
   background-color: #f5d78a62;
   left: 50%;
-  margin-bottom: 8vh;
   transform: translate(-50%, -50%);
   border: 0.1px solid #00000066;
   border-radius: 13px;
