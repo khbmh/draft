@@ -70,6 +70,7 @@ nav ul {
   top: 95vh;
   background-color: #f5d78a62;
   left: 50%;
+  margin-bottom: 8vh;
   transform: translate(-50%, -50%);
   border: 0.1px solid #00000066;
   border-radius: 13px;
@@ -337,6 +338,10 @@ i {
 }
 .br4 {
   border-radius: 0 25px 25px 25px;
+}
+.br3 h3 {
+  border-radius: 25px 0 25px 25px;
+  margin-left: -3vw;
 }
 .div .container {
   /* background-color: #e9c19948; */
